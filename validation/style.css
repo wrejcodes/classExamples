@@ -1,0 +1,22 @@
+.text-center {
+	text-align: center;
+}
+body {
+	font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+	color:#333;
+	background-color: #ecf0f1;
+}
+#error {
+	color:#e74c3c;
+}
+
+#myform input[type=text] {
+	height:20px;
+	font-size:1.2em;
+}
+
+
+#myform input[type=password] {
+	height:20px;
+	font-size:1.2em;
+}
