@@ -32,7 +32,7 @@
 			$results = '<p id="error" class="text-center"> Invalid username and/or password</p>';
 		}
 		if($numOfResults > 3){
-			$results.= '<div id="samples" class="text-center"><h4>Check out the code samples at <a href="//www.github.com/wrejcodes/classExamples">Github!</a></h4></div>';
+			$results.= '<a href ="info.php"><h3 class="text-center">How it works!</h3></a>';
 		}
 
 	} else {
